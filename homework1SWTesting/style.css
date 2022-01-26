@@ -1,0 +1,23 @@
+div {
+    margin: 30px;
+}
+
+body {
+    background-color: pink;
+
+}
+
+.panel {
+    display: inline-block;
+    background: #ffffff;
+    /* min-height: 100px; */
+    /* height: 100px;
+    margin: 10px; */
+    padding: 10px; 
+    border-style: solid;
+}
+
+h1, h2 {
+    font-family: fantasy;
+}
+
